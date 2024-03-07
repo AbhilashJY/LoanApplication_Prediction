@@ -248,7 +248,7 @@ strong {
 }
 
 .label-control {
-	position: absolute;
+	position: static;
 	top: 0.61rem;
 	left: 1.375rem;
 	color: #787976;
